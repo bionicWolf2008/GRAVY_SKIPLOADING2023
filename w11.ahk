@@ -23,8 +23,8 @@ DragAndGrow:
         WinGet, active_id, ID, A
         WinGetPos, , , current_width, current_height, ahk_id %active_id%
 
-        new_width := current_width + 5
-        new_height := current_height + 5
+        new_width := current_width + 1
+        new_height := current_height + 1
 
         WinMove, ahk_id %active_id%, , , , %new_width%, %new_height%
 
