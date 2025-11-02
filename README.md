@@ -1,3 +1,5 @@
+NOTE: MUST BE ON WINDOWS COMPUTER!!
+
 1) Download tlq.ahk
 2) Download GS Auto Clicker
 3) Setup GS Auto Clicker 
